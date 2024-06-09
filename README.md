@@ -33,10 +33,15 @@
 
 Τα υλικά που χρησιμοποιήθηκαν είναι τα εξής :
 2 x BBC micro:bit (40 ευρώ)
+
     https://microbit.org/
+    
 2 x πλακέτες επέκτασης για κινητήρες  (50 ευρώ)
+
     WaveShare - Motor Driver for micro:bit
+    
     https://www.waveshare.com/wiki/Motor_Driver_for_micro:bit
+    
 4 x κινητήρες DC (16 ευρώ) 
     Waveshare - DC motor with encoder
     https://www.waveshare.com/dcgm-3865-12v-en-240rpm.htm
