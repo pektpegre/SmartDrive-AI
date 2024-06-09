@@ -33,21 +33,21 @@
 
 Τα υλικά που χρησιμοποιήθηκαν είναι τα εξής :
 - 2 x BBC micro:bit (40 ευρώ)\
-    https://microbit.org/\    
+    https://microbit.org/ 
 - 2 x πλακέτες επέκτασης για κινητήρες (50 ευρώ)\
     WaveShare - Motor Driver for micro:bit\
-    https://www.waveshare.com/wiki/Motor_Driver_for_micro:bit\
-- 4 x κινητήρες DC (16 ευρώ) 
-    Waveshare - DC motor with encoder
+    https://www.waveshare.com/wiki/Motor_Driver_for_micro:bit
+- 4 x κινητήρες DC (16 ευρώ)\
+    Waveshare - DC motor with encoder\
     https://www.waveshare.com/dcgm-3865-12v-en-240rpm.htm
-2 x Κάμερες με δυνατότητες τεχνητής νοημοσύνης (140 ευρώ)
-    HuskyLens DFRobot
+- 2 x Κάμερες με δυνατότητες τεχνητής νοημοσύνης (140 ευρώ)\
+    HuskyLens DFRobot\
     https://www.dfrobot.com/product-1922.html
-12 x Επαναφορτιζόμενες μπαταρίες (ΑΑΑ) (14 ευρώ)
-1 x Νήμα εκτύπωσης PLA (20 ευρώ)
-Αναλώσιμα (καλώδια, διακόπτες, κ.α.) (20 ευρώ)
+- 12 x Επαναφορτιζόμενες μπαταρίες (ΑΑΑ) (14 ευρώ)
+- 1 x Νήμα εκτύπωσης PLA (20 ευρώ)
+- Αναλώσιμα (καλώδια, διακόπτες, κ.α.) (20 ευρώ)
 
-Συνολικό κόστος: 320 ευρώ
+Συνολικό κόστος : 320 ευρώ
 
 
 
