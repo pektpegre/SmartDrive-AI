@@ -106,12 +106,12 @@
 
 
 <p align="center">
-    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/14198b97-b674-4e2c-821b-cc20ba9e1039" width="600">
+    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/14198b97-b674-4e2c-821b-cc20ba9e1039" width="400">
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/74cb4025-e37d-4d14-8843-7386d96ef897" width="600">
+    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/74cb4025-e37d-4d14-8843-7386d96ef897" width="400">
 </p>
 
 
