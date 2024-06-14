@@ -78,63 +78,58 @@
 
 
 <p align="center">
-    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/6bacfa9e-22a9-4021-8835-f56218ef5acf" width="800">
+    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/6bacfa9e-22a9-4021-8835-f56218ef5acf" width="600">
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/ea0a579b-7825-4a47-8e81-787b522ee0bd" width="800">
-</p>
-
-
-
-<p align="center">
-    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/cf755dea-adfd-4b3b-97da-fa3e26113c4d" width="800">
-</p>
-
-
-<p align="center">
-    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/3de80b51-7dcc-4668-a21c-6b153c0694cf" width="800">
+    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/ea0a579b-7825-4a47-8e81-787b522ee0bd" width="600">
 </p>
 
 
 
 <p align="center">
-    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/db0efa95-73f3-43aa-8539-1599a4a9b7a1" width="800">
+    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/cf755dea-adfd-4b3b-97da-fa3e26113c4d" width="600">
+</p>
+
+
+<p align="center">
+    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/3de80b51-7dcc-4668-a21c-6b153c0694cf" width="600">
 </p>
 
 
 
 <p align="center">
-    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/14198b97-b674-4e2c-821b-cc20ba9e1039" width="800">
+    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/db0efa95-73f3-43aa-8539-1599a4a9b7a1" width="600">
+</p>
+
+
+
+<p align="center">
+    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/14198b97-b674-4e2c-821b-cc20ba9e1039" width="600">
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/74cb4025-e37d-4d14-8843-7386d96ef897" width="800">
+    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/74cb4025-e37d-4d14-8843-7386d96ef897" width="600">
 </p>
-
-
-
-
 
 
 
 Όταν τα οχήματα ήταν έτοιμα οι μαθητές δοκίμασαν τον έλεγχο της κίνησής τους. Μετά από δοκιμές, αποδείχθηκε ότι το αυτοκίνητο ελέγχεται καλύτερα με τη χρήση ετικετών, διότι στην αναγνώριση χρωμάτων η κίνηση επηρεαζόταν από τα χρώματα του περιβάλλοντος χώρου. Για τον έλεγχο του οχήματος με ετικέτες, σχεδιάστηκε τελικά στο TinkerCAD μία κατασκευή σε μορφή κύβου που διαθέτει στις πέντε πλευρές του πέντε διαφορετικές ετικέτες. Έτσι, όταν η κάμερα βλέπει την αντίστοιχη ετικέτα κινείται προς τα μπροστά, πίσω, δεξιά, αριστερά ή σταματάει. Το τρισδιάστατο σχέδιο του κύβου και των ετικετών βρίσκεται στον φάκελο 3D-model.
 
 <p align="center">
-    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/02eb6d7d-bb41-442d-879e-327eb96ffa32" width="800">
+    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/02eb6d7d-bb41-442d-879e-327eb96ffa32" width="600">
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/676871cc-40a9-45ae-a523-b5701e16503d" width="800">
+    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/676871cc-40a9-45ae-a523-b5701e16503d" width="600">
 </p>
 
 
-
 <p align="center">
-    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/b14eb66c-d29b-492f-8fad-7643b40b1daa" width="800">
+    <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/b14eb66c-d29b-492f-8fad-7643b40b1daa" width="600">
 </p>
 
 
