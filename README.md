@@ -21,8 +21,7 @@
 
 **Βίντεο με παρουσίαση της κατασκευής.**
 
-https://youtu.be/DsiuslH4l6Y
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DsiuslH4l6Y?si=YGXt1UR5mzMBChyD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Αναλυτική περιγραφή έργου**
 
