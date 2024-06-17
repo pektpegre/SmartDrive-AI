@@ -52,6 +52,15 @@ HuskyLens DFRobot
 
 
 
+Η σύνδεση της κάμερας HuskyLens με το micro:bit φαίνεται στην επόμενη εικόνα. Πιθανόν να χρειαστούν απαραίτητες κολλήσεις ακροδεκτών με κολλητήρι. 
+Πρόσθετες πληροφορίες για την HuskyLens μπορείτε να βρείτε στους παρακάτω συνδέσμους.
+- https://www.dfrobot.com/product-1922.html
+- https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336
+
+
+
+<p style="text-align: center;">
+
 
 
 
