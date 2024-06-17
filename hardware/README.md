@@ -19,17 +19,17 @@ BBC micro:bit
 </p>
 
 <p style="text-align: center;">
-![motor-driver](https://github.com/pektpegre/SmartDrive-AI/assets/99668439/55026ae5-e6e0-4526-9cf7-9ee39574d3ae)
+<img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/55026ae5-e6e0-4526-9cf7-9ee39574d3ae">
 WaveShare - Motor Driver for micro:bit
 </p>
 
 <p style="text-align: center;">
-![dc-motor](https://github.com/pektpegre/SmartDrive-AI/assets/99668439/4d04777f-725c-48a5-adb4-ca2c4b586bd7)
+<img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/4d04777f-725c-48a5-adb4-ca2c4b586bd7">
 Waveshare - DC motor with encoder
 </p>
 
 <p style="text-align: center;">
-![huskylens](https://github.com/pektpegre/SmartDrive-AI/assets/99668439/3fe8acee-824e-4c5e-bef6-be577ba2a257)
+<img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/3fe8acee-824e-4c5e-bef6-be577ba2a257">
 HuskyLens DFRobot
 </p>
 
