@@ -29,6 +29,8 @@ WaveShare - Motor Driver for micro:bit
 
 <p style="text-align: center;">
 <img src="https://github.com/pektpegre/SmartDrive-AI/assets/99668439/4d04777f-725c-48a5-adb4-ca2c4b586bd7" width="500">
+</p>
+<p style="text-align: center;">
 Waveshare - DC motor with encoder
 </p>
 
