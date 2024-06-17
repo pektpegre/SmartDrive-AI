@@ -13,20 +13,25 @@ https://www.dfrobot.com/product-1922.html
 
 και φαίνονται στις επόμενες εικόνες.
 
+<p style="text-align: center;">
 ![microbit](https://github.com/pektpegre/SmartDrive-AI/assets/99668439/48770582-b735-4ff2-8533-f05025958a20)
 BBC micro:bit
+</p>
 
-
+<p style="text-align: center;">
 ![motor-driver](https://github.com/pektpegre/SmartDrive-AI/assets/99668439/55026ae5-e6e0-4526-9cf7-9ee39574d3ae)
 WaveShare - Motor Driver for micro:bit
+</p>
 
-
+<p style="text-align: center;">
 ![dc-motor](https://github.com/pektpegre/SmartDrive-AI/assets/99668439/4d04777f-725c-48a5-adb4-ca2c4b586bd7)
 Waveshare - DC motor with encoder
+</p>
 
-
+<p style="text-align: center;">
 ![huskylens](https://github.com/pektpegre/SmartDrive-AI/assets/99668439/3fe8acee-824e-4c5e-bef6-be577ba2a257)
 HuskyLens DFRobot
+</p>
 
 
 Το micro:bit συνδέεται με την πλακέτα επέκτασης της waveshare όπως φαίνεται στην επόμενη εικόνα. 
